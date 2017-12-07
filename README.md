@@ -12,9 +12,9 @@ One Colossus stands on top a cliff, while 27 Zerglings converge to attack on the
 - 27 computer controlled Zerglings
 
 ### Rewards: (tentative)
-+ 2 for killing each Zergling
-+ x points for every x health that Colosssus has (excluding shields)
--20 for dying
++ +2 for killing each Zergling
++ +x points for every x health that Colosssus has (excluding shields)
++ -20 for dying
 
 ### End Conditions:
 - Time limit reached
